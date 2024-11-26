@@ -2,4 +2,6 @@
     remote = myremote
     autostage = true
 ['remote "myremote"']
-    url = gs://tp-dvc-mt/thibaud
+    url = gdrive://1JQNGq5d1GiA8lC_GA-N5v3iQc1X9vHaK
+    gdrive_client_id = 1047631255233-65gameca744ntrq6h2934htiagmekm7e.apps.googleusercontent.com
+    gdrive_client_secret = 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
